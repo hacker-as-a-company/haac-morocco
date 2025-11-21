@@ -1,155 +1,201 @@
-# 📘 Blueprint de l'écosystème - HaaC Maroc  
+# Hacker as a Company - Morocco Ecosystem Blueprint  
 
 Version 1.0 , 2025
 License: CC BY-SA 4.0
 
-Ce document présente la vision, les structures et les fondations du modèle Hacker as a Company, piloté par le Chapitre Marocain.
+---
+
+## Introduction
+
+Le Maroc dispose d’une richesse rare: des hackers passionnés, créatifs, agiles, capables d’explorer, comprendre et améliorer les systèmes complexes.  
+Pourtant, jusqu’à aujourd’hui, deux chemins seulement existaient: un poste corporate, ou rien.
+
+Hacker as a Company, HaaC, introduit une troisième voie.  
+Une voie professionnelle, collaborative et souveraine.
+
+Ce blueprint pose les fondations de ce modèle:  
+ comment l’écosystème s’organise,qui participe, et quelles relations se tissent entre les talents, les structures, les organisations partenaires et les autorités.
+
+Il ne détaille pas encore les processus opérationnels.  
+Il offre une vision claire et destinée à être enrichie, discutée, critiquée et construite par la communauté.
 
 ---
 
-# 1. Introduction  
+## La Communauté HaaC
 
-Le Maroc dispose d'une richesse rare : des hackers passionnés, créatifs et capables de comprendre des systèmes complexes.  
-Jusqu'ici, deux chemins existaient :  
-* Un poste corporate  
-* Ou rien
+La communauté est le coeur vivant du mouvement.  
+Elle rassemble des personnes volontaires, engagées par conviction et unies par une idée simple:  
+**contribuer à renforcer la cybersécurité du Maroc en libérant la force de ses hackers.**
 
-Hacker as a Company introduit une troisième voie :  
-une voie professionnelle, collaborative et souveraine.
+### Raison d’être
 
-Ce blueprint expose :  
-* Comment l'écosystème s'organise  
-* Qui y participe  
-* Comment s'articulent communauté, entités, partenaires et autorités  
+* Offrir une alternative crédible et structurante dans l’écosystème marocain  
+* Créer un cadre qui relie les hackers, les entreprises et l’État autour d’une vision commune  
+* Permettre l’émergence d’entités tactiques, agiles et fiables  
+* Donner aux hackers marocains la possibilité de proposer et de vendre leurs services de manière éthique, légale et reconnue  
+* Proposer un modèle conçu par des hackers marocains, pour le Maroc  
 
-Il s'agit d'une base vivante destinée à être discutée et améliorée.
+### Rôles de la communauté
 
----
-
-# 2. La Communauté HaaC  
-
-La communauté rassemble des volontaires unis par une idée simple :
-
-**Renforcer la cybersécurité du Maroc en libérant la force de ses hackers.**
-
-## Raison d'être  
-* Offrir une alternative crédible et structurante  
-* Relier hackers, entreprises et État  
-* Permettre l'émergence d'entités tactiques et fiables  
-* Faciliter la vente de services éthiques et légaux  
-* Proposer un modèle marocain, pour le Maroc  
-
-## Rôles de la communauté  
 * Proposer des idées et enrichir la vision  
-* Accueillir les nouveaux  
-* Partager l'expérience  
-* Co-construire les documents  
-* Améliorer en continu  
+* Accueillir les nouveaux arrivants  
+* Partager l’expérience et le savoir-faire  
+* Co-construire les documents de base  
+* Relire, valider et améliorer les contenus produits  
 
-## Identité  
-Ethical First • Freedom Second • Impact Always.  
-Le Chapitre Marocain n'appartient à personne. Il appartient à tous ceux qui contribuent.
+### Identité du mouvement
 
----
+Ethical First • Freedom Second • Impact Always
 
-# 3. Le Framework HaaC  
-
-Le framework définit :  
-* L'éthique  
-* Les rôles et responsabilités  
-* La collaboration  
-* Les livrables et méthodes  
-* L'alignement avec les lois marocaines  
-
-Son rôle : instaurer la confiance et garantir l'intégrité.
+Le Chapter Marocain n’appartient à personne.  
+Il bénéficie à tout le monde.  
+Il appartient à tous ceux qui veulent contribuer, critiquer, proposer et bâtir une dynamique qui crée des opportunités concrètes pour les hackers marocains.
 
 ---
 
-# 4. La Plateforme HaaC  
+## Le Framework HaaC
 
-La plateforme sera l'espace où circulent :  
-* Les missions  
-* La divulgation responsable  
-* Les contributions  
-* Les outils de pilotage  
-* Les collaborations  
+Le framework établit les règles, les valeurs et les principes qui organisent le mouvement.
 
-C'est la partie opérationnelle du modèle.
+Il définit:
+
+* L’éthique et les valeurs fondatrices  
+* Les rôles et responsabilités des contributeurs et entities  
+* Les méthodologies et le corpus documentaire couvrant les services fournis par les entités HaaC  
+* Les modes de collaboration et de production  
+* L’alignement avec les lois marocaines et les bonnes pratiques internationales  
+
+Le framework n’est pas un un modèle trop lourd.  
+Il vise à instaurer la confiance.  
+À donner un repère commun, lisible et transparent.  
+À garantir que chaque mission soit menée dans un esprit d’intégrité et de responsabilité.
 
 ---
 
-# 5. Les Organisations Partenaires  
+## La Plateforme HaaC
 
-Elles peuvent être entreprises, institutions, startups ou associations.
+La plateforme sera l’espace structurant où l’activité se déroule.  
+Elle permettra de connecter directement les talents aux besoins des entreprises et institutions marocaines.
 
-## Contribuer  
+Elle inclura notamment:
+
+* Un système de gestion des missions  
+* Un portail de divulgation responsable  
+* Des fonctionnalités de contribution et de reconnaissance  
+* Des outils de pilotage et de gouvernance  
+* Ainsi que toute autre fonctionnalité, service ou offre que la communauté décidera d’implémenter  
+
+Cette plateforme incarne la promesse du modèle:  
+**organiser nos talents, fluidifier les interactions et créer une alternative marocaine crédible.**
+
+---
+
+## Les Organisations Partenaires
+
+Les organisations partenaires regroupent les entreprises, institutions publiques, startups ou tout autre organisme souhaitant contribuer et ou sponsoriser le mouvement .
+
+Elles contribuent de deux manières essentielles:
+
+### Contribuer
+
 * Exprimer leurs besoins  
-* Partager leurs contraintes  
-* Donner des retours d'expérience  
-* Ouvrir des pilotes  
+* Partager leurs contraintes métier  
+* Offrir des retours d’expérience  
+* Ouvrir la voie à des pilotes  
 
-## Sponsoriser  
-* Soutenir des projets  
+### Sponsoriser
+
+* Soutenir le mouvement à travers des projets, ateliers ou défis  
 * Financer des missions pilotes  
-* Aider à la montée en compétence  
-* Encourager la création d'entités  
+* Aider à développer des ressources ou outils  
+* Encourager la création d’entités HaaC  
+* Soutenir la montée en compétence des talents marocains  
+
+Ces partenaires assurent un ancrage essentiel entre le mouvement et la réalité économique du pays.
 
 ---
 
-# 6. Les Entités HaaC  
+## Les Entities HaaC
 
-Les entités peuvent être :  
-* Entreprises  
-* Coopératives  
-* Auto-entrepreneurs  
-* Groupements  
-* Personnes physiques encadrées  
+Les entities sont les unités légales qui réalisent les missions.  
+Il peut s’agir:
 
-Elles assurent :  
-* L'exécution des missions  
+* D’entreprises  
+* De coopératives  
+* D’auto-entrepreneurs  
+* De groupements  
+* De personnes physiques opérant dans un cadre strictement encadré  
+
+Elles assurent:
+
+* L’exécution des missions  
 * La production des rapports  
 * La facturation  
 * Le respect du cadre HaaC  
 
----
-
-# 7. Gouvernance  
-
-La gouvernance repose sur :  
-* Transparence  
-* Dialogue  
-* Participation volontaire  
-* Amélioration continue  
+Elles incarnent la partie professionnelle du mouvement:  
+des unités éthiques, légales, autonomes et structurées auxquelles les entreprises peuvent faire confiance et que l’État peut qualifier et soutenir.
 
 ---
 
-# 8. Feuille de route  
+## Gouvernance et fonctionnement collectif
 
-Premières étapes :  
-* Consolider la vision  
-* Uniformiser le vocabulaire  
-* Rédiger les premiers documents  
-* Accueillir les premiers contributeurs  
-* Identifier les partenaires pilotes  
-* Préparer la plateforme HaaC  
+La gouvernance s’appuie sur un petit groupe garant de la cohérence du mouvement et de la continuité de la vision.
 
----
+Le fonctionnement collectif repose sur:
 
-# 9. Conclusion  
+* La transparence  
+* Le dialogue  
+* La participation volontaire  
+* L’amélioration continue  
 
-Ce blueprint est une base.  
-Il décrit un modèle marocain conçu pour les besoins du pays et construit par ses talents.
-
-> Si cette vision te parle, rejoins-nous.  
-> Contribue. Propose. Construis la nouvelle voie du hacking éthique au Maroc.
+HaaC est un mouvement ouvert, structuré et collaboratif.  
+Conçu pour durer.
 
 ---
 
-# 10. Attribution et Origine  
+## Feuille de route
+
+Les premières étapes de la version 1.0 sont les suivantes:
+
+* Consolider la vision commune  
+* Uniformiser les concepts et le vocabulaire  
+* Produire les premiers documents de référence  
+* Accueillir les premiers contributeurs actifs  
+* Identifier les partenaires prêts à contribuer  
+* Préparer la plateforme HaaC et son modèle opérationnel  
+* Ecrire la version enrichie du framework  
+
+L’approche est progressive.  
+Construite par phases courtes et claires.
+
+---
+
+## Conclusion
+
+Ce blueprint est une base, un point de départ, une invitation.  
+Il décrit un modèle marocain, pensé pour les besoins du Maroc, construit par ses propres talents.
+
+Nous, hackers marocains, avons la capacité et la responsabilité de contribuer à la sécurité de notre pays.  
+HaaC offre une voie.  
+Une alternative nouvelle.  
+Une force collective éthique, organisée et souveraine.
+
+Si cette vision vous parle, rejoignez, contribuez, proposez.
+
+---
+
+## Attribution
 
 * Document rédigé par la communauté HaaC  
-* Licence : CC BY-SA 4.0  
-* Concept créé en 2025 par El Mehdi Oumedlouz  
+* Licence: CC BY-SA 4.0  
+* Les contributions, critiques et enrichissements sont les bienvenus
 
-Manifeste :  
-https://github.com/hacker-as-a-company/manifesto
+---
+
+## Origine
+
+Le concept Hacker as a Company a été créé en 2025 par El Mehdi Oumedlouz comme cadre ouvert et éthique pour des hackers autonomes.  
+
+Pour le manifeste complet du mouvement, cliquer sur :  
+https://github.com/hacker-as-a-company/manifesto/blob/main/HACKER_AS_A_COMPANY_MANIFESTO.md
