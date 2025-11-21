@@ -1,5 +1,7 @@
 # 📘 Blueprint de l'écosystème - HaaC Maroc  
-**Version GitHub - Lecture communautaire**
+
+Version 1.0 , 2025
+License: CC BY-SA 4.0
 
 Ce document présente la vision, les structures et les fondations du modèle Hacker as a Company, piloté par le Chapitre Marocain.
 
@@ -9,16 +11,16 @@ Ce document présente la vision, les structures et les fondations du modèle Hac
 
 Le Maroc dispose d'une richesse rare : des hackers passionnés, créatifs et capables de comprendre des systèmes complexes.  
 Jusqu'ici, deux chemins existaient :  
-* un poste corporate  
-* ou rien
+* Un poste corporate  
+* Ou rien
 
 Hacker as a Company introduit une troisième voie :  
 une voie professionnelle, collaborative et souveraine.
 
 Ce blueprint expose :  
-* comment l'écosystème s'organise  
-* qui y participe  
-* comment s'articulent communauté, entités, partenaires et autorités  
+* Comment l'écosystème s'organise  
+* Qui y participe  
+* Comment s'articulent communauté, entités, partenaires et autorités  
 
 Il s'agit d'une base vivante destinée à être discutée et améliorée.
 
@@ -53,11 +55,11 @@ Le Chapitre Marocain n'appartient à personne. Il appartient à tous ceux qui co
 # 3. Le Framework HaaC  
 
 Le framework définit :  
-* l'éthique  
-* les rôles et responsabilités  
-* la collaboration  
-* les livrables et méthodes  
-* l'alignement avec les lois marocaines  
+* L'éthique  
+* Les rôles et responsabilités  
+* La collaboration  
+* Les livrables et méthodes  
+* L'alignement avec les lois marocaines  
 
 Son rôle : instaurer la confiance et garantir l'intégrité.
 
@@ -66,11 +68,11 @@ Son rôle : instaurer la confiance et garantir l'intégrité.
 # 4. La Plateforme HaaC  
 
 La plateforme sera l'espace où circulent :  
-* les missions  
-* la divulgation responsable  
-* les contributions  
-* les outils de pilotage  
-* les collaborations  
+* Les missions  
+* La divulgation responsable  
+* Les contributions  
+* Les outils de pilotage  
+* Les collaborations  
 
 C'est la partie opérationnelle du modèle.
 
@@ -97,27 +99,27 @@ Elles peuvent être entreprises, institutions, startups ou associations.
 # 6. Les Entités HaaC  
 
 Les entités peuvent être :  
-* entreprises  
-* coopératives  
-* auto-entrepreneurs  
-* groupements  
-* personnes physiques encadrées  
+* Entreprises  
+* Coopératives  
+* Auto-entrepreneurs  
+* Groupements  
+* Personnes physiques encadrées  
 
 Elles assurent :  
-* l'exécution des missions  
-* la production des rapports  
-* la facturation  
-* le respect du cadre HaaC  
+* L'exécution des missions  
+* La production des rapports  
+* La facturation  
+* Le respect du cadre HaaC  
 
 ---
 
 # 7. Gouvernance  
 
 La gouvernance repose sur :  
-* transparence  
-* dialogue  
-* participation volontaire  
-* amélioration continue  
+* Transparence  
+* Dialogue  
+* Participation volontaire  
+* Amélioration continue  
 
 ---
 
