@@ -65,7 +65,7 @@ Il définit:
 * Les modes de collaboration et de production  
 * L’alignement avec les lois marocaines et les bonnes pratiques internationales  
 
-Le framework n’est pas un un modèle trop lourd.  
+Le framework n’est pas un modèle trop lourd.  
 Il vise à instaurer la confiance.  
 À donner un repère commun, lisible et transparent.  
 À garantir que chaque mission soit menée dans un esprit d’intégrité et de responsabilité.
